@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/javaTestForSSP.iml" filepath="$PROJECT_DIR$/.idea/javaTestForSSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaTestForSSP.main.iml" filepath="$PROJECT_DIR$/.idea/modules/javaTestForSSP.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaTestForSSP.test.iml" filepath="$PROJECT_DIR$/.idea/modules/javaTestForSSP.test.iml" />
     </modules>
   </component>
 </project>
